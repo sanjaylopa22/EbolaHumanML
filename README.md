@@ -12,16 +12,9 @@ pip install numpy
 pip install matplotlib
 
 ## Dataset
-5 datasets are used.
-1. Train dataset - EbolaTrainWhole1.csv
-2. Blind Train dataset (1(positive):1(negative)) - EbolaTrainblinddata.csv
-3. Blind Test dataset (1(positive):1(negative)) - Ebolatestdataset.csv
-4. Oversampled dataset (2(positive):1(negative)) - oversampled.csv
-5. Undersampled dataset (1(positive):2(negative)) - undersampled.csv
-   
-### Offical Dataset
-We have shared a snap (reference) of all the datasets as we are not authorized to share the full datasets.
 
+Ebola-human Protein-protein interaction Database manually curated from published literature - EbolaInt.xlsx
+  
 ### Preprocessed dataset
 We have provided the preprocessed datasets (normalized, standardized) used in the paper.
 
