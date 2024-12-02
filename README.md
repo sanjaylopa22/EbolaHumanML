@@ -32,3 +32,4 @@ You can train the model with the following commands:
 
 # Default settings
 python ebola_keras_DMLP.py 
+python DMLP_Test_Ablations.py
