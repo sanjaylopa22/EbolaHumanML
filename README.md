@@ -13,10 +13,11 @@ pip install matplotlib
 
 ## Dataset
 5 datasets are used.
-1. Train dataset (1(positive):1(negative)) - EbolaTrainblinddata.csv
-2. Blind Test dataset (1(positive):1(negative)) - blinddataset.csv
-3. Oversampled dataset (2(positive):1(negative)) - oversampled.csv
-4. Undersampled dataset (1(positive):2(negative)) - undersampled.csv
+1. Train dataset - EbolaTrainWhole1.csv
+2. Blind Train dataset (1(positive):1(negative)) - EbolaTrainblinddata.csv
+3. Blind Test dataset (1(positive):1(negative)) - Ebolatestdataset.csv
+4. Oversampled dataset (2(positive):1(negative)) - oversampled.csv
+5. Undersampled dataset (1(positive):2(negative)) - undersampled.csv
    
 ### Offical Dataset
 We have shared a snap (reference) of all the datasets as we are not authorized to share the full datasets.
